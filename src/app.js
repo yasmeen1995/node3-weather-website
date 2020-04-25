@@ -109,7 +109,7 @@ app.get('*', (req, res) => {   //wildcart char is to convey "if there is no matc
 
 
 app.listen(port, () => {
-    console.log('Server is up on port '+port )
+    console.log('Server is up on port '+ port )
 })
 
 
